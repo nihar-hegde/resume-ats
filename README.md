@@ -2,8 +2,8 @@
 
 ## Todos
 
-- [ ] boot strap the app
-- [ ] set up a simple landing page for now
+- [x] bootstrap the app
+- [x] set up a simple landing page for now
 - [ ] setup signup and sign in functionality
 - [ ] setup database and prisma and store the logged in user details.
 - [ ] make sure to add a tokens field to the user to keep track of tokens the user have.
