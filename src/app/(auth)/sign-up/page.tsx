@@ -1,10 +1,11 @@
+import { SignUpForm } from "@/components/Auth/sign-up-form";
 import React from "react";
 
 const SignUp = () => {
   return (
-    <main>
+    <main className="flex items-center justify-center p-20">
       <div>
-        <h1>Sign Up Page</h1>
+        <SignUpForm />
       </div>
     </main>
   );
